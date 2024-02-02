@@ -1,0 +1,39 @@
+
+6ec2ad09c45854eb82241459ff9e5a19
+v3
+
+
+
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2ZWMyYWQwOWM0NTg1NGViODIyNDE0NTlmZjllNWExOSIsInN1YiI6IjY1YjgwYzYzMjJhZjNlMDE2MTNmZTVlZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.PxHpXkZWJTZvptyNBnR4MjzOMYzeKF4ISD4wad4Y0Uw
+
+
+
+
+based url
+
+https://api.themoviedb.org/3
+
+https://api.themoviedb.org/3/discover/movie
+
+
+
+
+image based
+https://image.tmdb.org/t/p/w500
+const based img=https://image.tmdb.org/t/p/w500;
+get-movies='discover/movie'
+
+
+
+
+
+https//api.themoviedb.org/3/discover/movie?api_key=6ec2ad09c45854eb82241459ff9e5a19
+
+
+
+
+new key :215a579fe76bbaec61bc489847e184bf
+
+new api asses token :
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMTVhNTc5ZmU3NmJiYWVjNjFiYzQ4OTg0N2UxODRiZiIsInN1YiI6IjY1Yjg2YWE5MmQ5Mzc1MDE2MjkzYzZmMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.AZ3T62j9SyO9R1mDjDj7Ud_iA_M7CQP5xFasuYtPhHY
