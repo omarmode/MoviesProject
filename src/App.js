@@ -19,7 +19,7 @@ function App() {
     );
     setmovies(res.data.results);
     setpageCount(res.data.total_pages);
-    console.log(res.data.total_results);
+    // console.log(res.data.total_results);
   };
   //pages movies
   const GetAllMoviesPages = async (data) => {
@@ -27,7 +27,7 @@ function App() {
       `https://api.themoviedb.org/3/movie/popular?api_key=215a579fe76bbaec61bc489847e184bf&language=ar&page=${data}`
     );
     setmovies(res2.data.results);
-    setpageCount(res2.data.total_pages);
+    // setpageCount(res2.data.total_pages);
   };
   useEffect(() => {
     GetAllMovies();

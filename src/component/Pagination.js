@@ -1,8 +1,5 @@
 import React from "react";
-import { Container, Col, Row } from "react-bootstrap";
-import Pagination from "react-bootstrap/Pagination";
 import ReactPaginate from "react-paginate";
-import MoviesList from "./MoviesList";
 const PaginationItem = ({ GetAllMoviesPages, GetAllMovies }) => {
   const handlePageClick = (data) => {
     console.log(data.selected + 1);

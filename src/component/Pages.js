@@ -8,7 +8,7 @@ const Pages = ({ GetAllMoviesPages }) => {
     <nav aria-label="Page navigation example">
       <ul className="pagination">
         <li className="page-item">
-          <a className="page-link" href="#">
+          <a className="page-link" href='#'>
             Previous
           </a>
         </li>
@@ -18,7 +18,7 @@ const Pages = ({ GetAllMoviesPages }) => {
           </a>
         </li>
         <li className="page-item">
-          <a className="page-link" href={onePages}>
+          <a className="page-link" href={"#"}>
             2
           </a>
         </li>
